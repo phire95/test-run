@@ -4,8 +4,7 @@ title: undisciplinary- Martin Zemlicka
 snippet: the personal wiki of Martin Zemlicka. Thinking about objects.
 ---
 
-_testrun is based on (this site) is a wiki by [Martin
-Zemlicka](http://www.zmlka.com)_
+_Die Markise von Oho (this site) is a wiki by Steffen Mallon and Philipp Goertz_
 
 ## Lectures
 
