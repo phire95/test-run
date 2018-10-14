@@ -4,14 +4,14 @@ title: undisciplinary- Martin Zemlicka
 snippet: the personal wiki of Martin Zemlicka. Thinking about objects.
 ---
 
-_Undisciplinary (this site) is a wiki by [Martin
+_testrun is based on (this site) is a wiki by [Martin
 Zemlicka](http://www.zmlka.com)_
 
 ## Lectures
 
 Lecture notes, sorted by date of writing:
 
-* [Christian Kerez in Prague](christian_kerez_prague)
+* [Philipp's changes to Martins amazing wiki](christian_kerez_prague)
 * [Monika Mitášová on the possibility of critical architecture](mitasova_critical)
 * [Ákos Moravánskzy and Günther Vogt on environments](moravansky_vogt)
 * [(CS) What is critical thinking?](what_is_critical_thinking)
