@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christian Kerez's Lecture in Prague
+title: Philipp's changes to Martins amazing wiki
 tags: architect, quotes, Christian Kerez
 snippet: notes and thougths from Christian Kerez's lecture in Prague 2014
 ---
@@ -12,9 +12,8 @@ A completely full lecture room.
 ## Notes
 
 
-1. It is a bit strange to talk about projects that one already built, because a
-   finished house should speak for itself
-1. Space is the main thing in architecture. Architecture is a medium.
+1. Not sure what I am doing here, but I am looking forward to learn github.
+1. Wiki's are awesome. More for yourself than to others probably.
 1. (while showing his design for Tomio Okarmura) To create infinity, to use a
    house as a medium to create endlessness you have two options:
         * Open to the outside 
