@@ -1,7 +1,7 @@
 ---
 layout: index
-title: undisciplinary- Martin Zemlicka
-snippet: the personal wiki of Martin Zemlicka. Thinking about objects.
+title: Die Markise von Oho - a wiki
+snippet: the personal wiki of Steffen Mallon and Philipp Goertz
 ---
 
 _Die Markise von Oho (this site) is a wiki by Steffen Mallon and Philipp Goertz_
