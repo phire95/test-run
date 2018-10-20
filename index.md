@@ -10,7 +10,7 @@ _Die Markise von Oho (this site) is a wiki by Steffen Mallon and Philipp Goertz_
 
 Lecture notes, sorted by date of writing:
 
-* [Philipp's changes to Martins amazing wiki](christian_kerez_prague)
+* [Philipp's changes to Martins amazing wiki](philipp)
 * [Monika Mitášová on the possibility of critical architecture](mitasova_critical)
 * [Ákos Moravánskzy and Günther Vogt on environments](moravansky_vogt)
 * [(CS) What is critical thinking?](what_is_critical_thinking)
