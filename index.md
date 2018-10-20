@@ -44,6 +44,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [David Kopecký](david_kopecky)
 * [Eduardo Kohn](eduardo_kohn)
 * [Fonts](fonts)
+* [Friedrich Hoelderlin](friedrich_hoelderlin)
 * [Future Systems](future_systems)
 * [Georg Wilhelm Friedrich Hegel](hegel)
 * [Graham Harman](graham_harman)
