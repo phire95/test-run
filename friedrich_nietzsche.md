@@ -5,7 +5,7 @@ tags: adolf loos, quote, architecture
 snippet: notes and thoughts on Adolf Loos
 ---
 
-##Quotes
+## Quotes
 
 > Ja, ich weiß, woher ich stamme! <br>
 > Ungesaettigt gleich der Flamme <br>
