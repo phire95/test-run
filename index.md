@@ -45,6 +45,7 @@ Notes, thoughts, references, &c that I'm quite bad at updating.
 * [Eduardo Kohn](eduardo_kohn)
 * [Fonts](fonts)
 * [Friedrich Hoelderlin](friedrich_hoelderlin)
+* [Friedrich Nietzsche](friedrich_nietzsche)
 * [Future Systems](future_systems)
 * [Georg Wilhelm Friedrich Hegel](hegel)
 * [Graham Harman](graham_harman)
